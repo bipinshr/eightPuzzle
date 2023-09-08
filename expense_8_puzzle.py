@@ -1,5 +1,5 @@
 # Name: Bipin Shrestha
-# UTA ID: 1001841216
+
 import time
 import sys
 import queue
